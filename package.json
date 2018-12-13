@@ -1,0 +1,19 @@
+{
+  "name": "lyricist",
+  "version": "1.0.0",
+  "description": "HHM with Lyrics ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiffanyhchen/lyricist.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tiffanyhchen/lyricist/issues"
+  },
+  "homepage": "https://github.com/tiffanyhchen/lyricist#readme"
+}
