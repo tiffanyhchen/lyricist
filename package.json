@@ -25,10 +25,12 @@
     "body-parser": "^1.18.3",
     "compromise": "^11.12.4",
     "express": "^4.16.4",
+    "markov-generator": "^1.2.2",
     "morgan": "^1.9.1",
     "nodemon": "^1.18.4",
     "react": "^16.5.2",
-    "react-dom": "^16.5.2"
+    "react-dom": "^16.5.2",
+    "request": "^2.88.0"
   },
   "devDependencies": {
     "@babel/core": "^7.1.2",
